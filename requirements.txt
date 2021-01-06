@@ -2,8 +2,8 @@ future
 emoji
 lxml
 beautifulsoup4
-requests
-sqlalchemy
+requests>=2.18.4
+sqlalchemy>=1.2
 python-telegram-bot==12.8
 psycopg2-binary
 feedparser
@@ -14,7 +14,7 @@ geopy
 nltk
 psutil
 aiohttp>=2.2.5
-Pillow>=4.2.0
+Pillow>=5.3.0
 CurrencyConverter
 #googletrans
 google_trans_new
@@ -24,7 +24,7 @@ coffeehouse
 regex
 bleach
 git+https://github.com/starry69/python-markdown2.git
-wikipedia
+wikipedia>=1.4.0
 telethon
 spamwatch
 alphabet_detector
